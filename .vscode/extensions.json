@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "ms-mssql.mssql",
+    "mtxr.sqltools",
+    "alexcvzz.vscode-sqlite"
+  ]
+}
