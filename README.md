@@ -28,7 +28,4 @@ sqlite3 smartshop.db ".read sample_data.sql"
 Notes
 - The SQL files are written to be clear and easy to adapt. Change types/constraints to your target DB (Postgres, SQL Server, MySQL, SQLite).
 
-Copilot Usage
-- Copilot assisted in the creation of this project by laying out the groundwork needed to start the program as per instructed within the activities
-- Copilot also assisted by optimizing the code in the program
 
